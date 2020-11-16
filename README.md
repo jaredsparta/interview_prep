@@ -125,5 +125,5 @@
 - [Scrum-related](https://www.scrumalliance.org/)
 - [Waterfall](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
 - [OOP](https://medium.com/@benjaminpjacobs/the-four-principle-of-object-oriented-programming-f78600f62608)
-- []()
+- [DevOps](https://github.com/jaredsparta/what_is_devops)
 
